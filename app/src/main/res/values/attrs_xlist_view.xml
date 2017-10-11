@@ -1,0 +1,15 @@
+<resources>
+    <declare-styleable name="XListView">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+
+
+        <attr name="columnCount" format="integer"/>
+        <attr name="columnGap" format="dimension"/>
+        <attr name="columnSpan" format="integer"/>
+
+    </declare-styleable>
+
+</resources>
